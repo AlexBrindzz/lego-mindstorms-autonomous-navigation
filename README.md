@@ -13,6 +13,8 @@
 
 <br />
 <div align="center">
+  <img src="images/lego-robot.png" alt="Lego Mindstorms EV3 Robot" width="150">
+  
   <h3 align="center">Autonomous Control and Navigation of a Lego Mindstorms Robot</h3>
 
   <p align="center">
